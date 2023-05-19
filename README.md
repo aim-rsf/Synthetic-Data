@@ -8,9 +8,7 @@
 
 This repository is created and maintained by the [AI for Multiple Long Term Conditions Research Support Facility](https://www.turing.ac.uk/research/research-projects/ai-multiple-long-term-conditions-research-support-facility). To find out more about this facility, take a look at the [getting started](https://github.com/aim-rsf/Getting-Started) repository. 
 
-We welcome contributions from anyone, however small or large. If you chose to contribute to this synthetic data repository, please do this whilst in line with our [code of conduct](https://github.com/aim-rsf/Getting-Started/blob/main/CODE_OF_CONDUCT.md). 
-
-Not sure where to start? See our [general guide to contributing](https://github.com/aim-rsf/Getting-Started/blob/main/CONTRIBUTING.md), however for specific questions about the content of this repository and how to get involved please reach out to **Rachael Stickland** by emailing **rstickland@turing.ac.uk**. 
+We welcome contributions from anyone, however small or large. If you choose to contribute to this synthetic data repository, please do in line with our [code of conduct](https://github.com/aim-rsf/Getting-Started/blob/main/CODE_OF_CONDUCT.md). If you want to contribute but you're not sure where to start, see our [general guide to contributing](https://github.com/aim-rsf/Getting-Started/blob/main/CONTRIBUTING.md).
 
 ## What will I find in this repository?
 
