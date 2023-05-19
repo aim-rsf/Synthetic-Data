@@ -1,15 +1,22 @@
-# About
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 [![CC BY 4.0][cc-by-shield]][cc-by]
 
-# Synthetic-Data
+# Welcome
 
-Content to come 
+This repository is created and maintained by the [AI for Multiple Long Term Conditions Research Support Facility](https://www.turing.ac.uk/research/research-projects/ai-multiple-long-term-conditions-research-support-facility). To find out more about this facility, take a look at the [getting started](https://github.com/aim-rsf/Getting-Started) repository. 
 
-## Contributors
+We welcome contributions from anyone, however small or large. If you choose to contribute to this synthetic data repository, please do this in line with our [code of conduct](https://github.com/aim-rsf/Getting-Started/blob/main/CODE_OF_CONDUCT.md). If you want to contribute but you're not sure where to start, see our [general guide to contributing](https://github.com/aim-rsf/Getting-Started/blob/main/CONTRIBUTING.md).
+
+## What will I find in this repository?
+
+- Content to come
+
+## 🤝 Contributors 
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Many thanks to:
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
@@ -34,6 +41,8 @@ Content to come
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
+
+## ♻️ License
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License][cc-by].
 
