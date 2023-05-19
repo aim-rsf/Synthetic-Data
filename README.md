@@ -1,15 +1,20 @@
-# About
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 [![CC BY 4.0][cc-by-shield]][cc-by]
 
-# Synthetic-Data
+# Welcome
 
-Content to come 
+Intro to AIM-RSF here, including code of conduct etc. 
 
-## Contributors
+## What will I find in this repository?
+
+- Content to come
+
+## 🤝 Contributors 
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Many thanks to:
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
@@ -33,6 +38,8 @@ Content to come
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
+
+## ♻️ License
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License][cc-by].
 
