@@ -16,7 +16,8 @@ We welcome contributions from anyone, however small or large. If you choose to c
 
 ## 🤝 Contributors 
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Many thanks to:
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. 
+Thanks go to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
