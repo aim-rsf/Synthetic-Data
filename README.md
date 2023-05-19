@@ -1,6 +1,6 @@
 # About
 
-Add banner 
+[![All Contributors](https://img.shields.io/github/all-contributors/aim-rsf/Synthetic-Data?color=ee8449&style=flat-square)](#contributors)
 
 # Synthetic-Data
 
