@@ -1,2 +1,18 @@
+# About
+
+Add banner 
+
 # Synthetic-Data
-Information about synthetic data, in the context of health-care and biomedical research.
+
+Content to come 
+
+## Contributors
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
