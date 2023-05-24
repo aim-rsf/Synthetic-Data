@@ -30,10 +30,13 @@ Using computer-generated data to solve tasks is not a new idea; simulation and m
 Within a research context, it can be confusing if data that is perceived as 'fake' or 'made up' is used instead of real data. We always would like to use the real data, and the real data is what we should use to make final conclusions and decisions. However, there are points along the research process where it is challenging to use the real data (for example, privacy concerns) and a synthetic version (that matches the real data in some way but is *not* the real data) may help researchers and other users of this data. 
 
 <details>
-  <summary>More on this in the context of health datasets</summary>
+  <summary>More on the applications of synthetic data in the context of health datasets</summary>
     <br />
   <img align="left" width="30%" height="30%" src="illustrations/DataArePeople.jpg" alt=Data Are People>
-  Health databases can contain information about a large group of people, making the hosting and sharing of these databases challenging. It can be hard to share real data when it contains sensitive personal information about individuals - we do have some good anonymisation approaches to remove the risk of disclosure, however some risk will always remain. Accessing these databases can also cost money. For these reasons, and more, scientists working in health-care and biomedical research have sought to overcome some of these challenges by generating synthetic versions of datasets of interest. In theory, the synthetic data should be safer and easier to access, and therefore allow researchers to learn the structure, features and patterns of the real dataset without actually accessing it directly.
+  Health databases can contain information about a large group of people, making the hosting and sharing of these databases challenging. It can be hard to share real data when it contains sensitive personal information about individuals - we do have some good anonymisation approaches to remove the risk of disclosure, however some risk will always remain. Accessing these databases can also cost money. 
+  
+  For these reasons, and more, scientists working in health-care and biomedical research have sought to overcome some of these privacy concerns by generating synthetic versions of datasets of interest. In theory, the synthetic data should be safer and easier to access, therefore allowing researchers to learn the structure, features and patterns of the real dataset without actually accessing it directly. Easier and earlier access should facilitate promotion of these datasets, training of people and  acceleration/refinement of research workflows. If synthetic data is easier to share, it could also increase transparency of scientific reporting when shared along other research objects like code. In the context of AI, high fidelity synthetic data can be used to train and validate machine learning models; synthetic datasets can be created to be different to the real data in specific ways to address a certain bias in the real data, for example under-sampling of sub-groups within a population. 
+
  </details>
 <br />
 
@@ -42,15 +45,6 @@ Within a research context, it can be confusing if data that is perceived as 'fak
 - **Fidelity**: The degree to which the synthetic dataset matches the statistical properties of the real data (often used interchangeably with utility). 
 - **Privacy**: The amount of information the dataset contains about real data. Synthetic data can be created to mitigate disclosure risk (disclosure of confidential data about an individual).
 - In general, utility and fidelity change together, and disclosure risk increases with higher fidelity. However, not always! This is because disclosure risk is dependent on the approach/methodology used to generate the synthetic data. 
-
-## Applications
-- Mitigate disclosure risk (tackle privacy concerns)
-- Train people 
-- Speed up/refine workflows
-- Promote datasets
-- Increase transparency in scientific reporting
-- Train and validate (machine learning) algorithms 
-   - Address bias, small sample sizes, under-sampling of sub groups
 
 ## Trade-offs and challenges
 - The quality of the real data can determine the quality of the synthetic data, retaining biases and errors.
