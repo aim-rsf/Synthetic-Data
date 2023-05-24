@@ -1,6 +1,6 @@
  ## Inventory of synthetic datasets
 
-<!--/This information may would be good to collate in some sort of web dashboard. Large tables in a markdown file get a bit cumbersome to edit. -->
+<!--/This information may would be good to collate in some sort of web dashboard eventually. Large tables in a markdown file get a bit cumbersome to edit! -->
 
 | Name | Real Data Source | Purpose | Generation Method | Fidelity | Cost  | DLA | Infrastructure e.g. TRE | Other |
 |---|---|---|---|---|---|---|---|---|
@@ -10,10 +10,6 @@
 |CPRD[^1]  Aurum sample dataset | CPRD Aurum database[^2] |             |    |   |                       |   | | |
 |UK Biobank Synthetic Dataset[^3] | UK Biobank[^4] |             |[Tofu](https://github.com/spiros/tofu) Python library  |   |                       |   | ||
 |_Coming soon_| SAIL Databank[^5]   |             |    |   |                       |   | | |
-
-<!--/ Chris Orton: "PIONEER Hub might be useful for OPTIMAL - also Birmingham based. They have a service where they can create synthetic data for specific use cases (data to fit certain population characteristics), but not sure if they do this based on primary care or just hospital. Suzy Gallier from PIONEER was at the HDR meeting I attended on Monday, as well as Krish." https://www.pioneerdatahub.co.uk/data/data-services-costs/ -->
-
-<!--/ It could be good to include an inventory of real datasets that are easy & free to access (_not synthetic_) for example check these: MIMIC, DataLoch, ELSA, Birth cohorts, GNCR, ELPR, EXCEED, Hugging Face -->
 
 [^1]: https://cprd.com/synthetic-data
 [^2]: https://cprd.com/primary-care-data-public-health-research
