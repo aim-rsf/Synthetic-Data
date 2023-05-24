@@ -14,12 +14,12 @@ We welcome contributions from anyone, however small or large. If you choose to c
 
 ## What will I find in this repository?
 
-This repository is about synthetic data and its applications in healthcare and biomedical research. There are three main sections below. The first section covers an introduction to synthetic data. The second and third sections provide tools & resources for generating your own synthetic data methods or accessing existing synthetic datasets, depending on your use-case. Access to datasets can be a big barrier in healthcare research workflows; using synthetic versions of the health datasets to test ideas and code can speed up research.
+This repository is about synthetic data and its applications in healthcare and biomedical research. There are three main sections below. The first section covers an introduction to synthetic data. The second and third sections provide tools & resources for generating your own synthetic data or accessing existing synthetic datasets, depending on your use-case. Access to datasets can be a big barrier in healthcare research workflows; using synthetic versions of the health datasets to test ideas and code can speed up research.
 
 - **Read an [introduction to synthetic data](1-synthetic-data-introduction.md)** 
    - What is synthetic data?
    - When can't we use real data?
-   - Applications of synthetic data  
+     - Applications of synthetic data in the context of health datasets
    - Trade-offs and challenges with synthetic data
 
 - **Generate [your own synthetic datasets](2-synthetic-data-generation.md)** 
