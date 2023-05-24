@@ -1,6 +1,6 @@
 # Generating synthetic data 
 
-<!-- use AI for MLTC image? -->
+<img width="30%" height="40%" src="illustrations/Using-Artificial-Intelligence-for-MLTC.jpg" alt=Using Artificial Intelligence for MLTC>
 
 There are multiple different approaches to generating a synthetic dataset. The generation method could:
 
