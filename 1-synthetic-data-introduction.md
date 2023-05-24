@@ -3,7 +3,7 @@ Synthetic Data: Applications in health-care and biomedical research
 
 ## What is synthetic data?
 
-> **Synthetic data are artificially generated data which replicate original features and patterns of real-world data.**
+*Synthetic data are artificially generated data which replicate original features and patterns of real-world data.*
 
 There are lots of different ways of defining synthetic data, depending on the context.
 
@@ -25,20 +25,23 @@ Using computer-generated data to solve tasks is not a new idea; simulation and m
 
 ## When can't we use the real data?
 
-<img align="left" width="30%" height="30%" src="illustrations/sensitive-data.jpg" alt=Data Are People>
+<img align="left" width="50%" height="50%" src="illustrations/sensitive-data.jpg" alt=Data Are People>
 
 Within a research context, it can be confusing if data that is perceived as 'fake' or 'made up' is used instead of real data. We always would like to use the real data, and the real data is what we should use to make final conclusions and decisions. However, there are points along the research process where it is challenging to use the real data (for example, privacy concerns) and a synthetic version (that matches the real data in some way but is *not* the real data) may help researchers and other users of this data. 
 
+<img align="right" width="30%" height="40%" src="illustrations/DataArePeople.jpg" alt=Data Are People>
+
+---
 <details>
-  <summary>More on the applications of synthetic data in the context of health datasets</summary>
+  <summary> Click for more information on applications of synthetic data, in the context of health datasets</summary>
     <br />
-  <img align="left" width="30%" height="30%" src="illustrations/DataArePeople.jpg" alt=Data Are People>
-  Health databases can contain information about a large group of people, making the hosting and sharing of these databases challenging. It can be hard to share real data when it contains sensitive personal information about individuals - we do have some good anonymisation approaches to remove the risk of disclosure, however some risk will always remain. Accessing these databases can also cost money. 
-  
+  Health databases can contain information about a large group of people, making the hosting and sharing of these databases challenging. It can be hard to share real data when it contains sensitive personal information about individuals - we do have some good anonymisation approaches to remove the risk of disclosure, however some risk will always remain. Accessing these databases can also cost money.
+    <br />
   For these reasons, and more, scientists working in health-care and biomedical research have sought to overcome some of these privacy concerns by generating synthetic versions of datasets of interest. In theory, the synthetic data should be safer and easier to access, therefore allowing researchers to learn the structure, features and patterns of the real dataset without actually accessing it directly. Easier and earlier access should facilitate promotion of these datasets, training of people and  acceleration/refinement of research workflows. If synthetic data is easier to share, it could also increase transparency of scientific reporting when shared along other research objects like code. In the context of AI, high fidelity synthetic data can be used to train and validate machine learning models; synthetic datasets can be created to be different to the real data in specific ways to address a certain bias in the real data, for example under-sampling of sub-groups within a population. 
 
  </details>
-<br />
+ 
+---
 
 ## Common terms and concepts
 - **Utility**: How useful the synthetic dataset is for a specific task or tasks, which will be application-dependent. 
@@ -54,8 +57,6 @@ Within a research context, it can be confusing if data that is perceived as 'fak
 - We need to use consistent terminology and methodologies, where possible.
 - We need to appropriately adapt data governance: it is not a replacement for real data, and should be easier to get access to and work with. 
 - Synthetic data has great potential in the context of the use of sensitive personal data in research, however synthetic data is not automatically private. For example, outliers remain hard to represent in a synthetic dataset in a private way, and evaluating the privacy of a model/dataset can be challenging. Privacy is a big topic - see reference [^1].
-
----
 
 <img align="left" width="50%" height="50%" src="illustrations/utility-vs-privacy.jpg">
 
