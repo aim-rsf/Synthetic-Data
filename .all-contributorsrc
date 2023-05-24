@@ -27,6 +27,15 @@
         "ideas",
         "review"
       ]
+    },
+    {
+      "login": "Rainiefantasy",
+      "name": "Mahwish M",
+      "avatar_url": "https://avatars.githubusercontent.com/u/43926907?v=4",
+      "profile": "https://github.com/Rainiefantasy",
+      "contributions": [
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,
@@ -34,5 +43,6 @@
   "repoType": "github",
   "repoHost": "https://github.com",
   "projectName": "Synthetic-Data",
-  "projectOwner": "aim-rsf"
+  "projectOwner": "aim-rsf",
+  "commitType": "docs"
 }
