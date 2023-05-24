@@ -34,10 +34,11 @@ Within a research context, it can be confusing if data that is perceived as 'fak
 ---
 <details>
   <summary> Click for more information on applications of synthetic data, in the context of health datasets</summary>
-    <br />
-  Health databases can contain information about a large group of people, making the hosting and sharing of these databases challenging. It can be hard to share real data when it contains sensitive personal information about individuals - we do have some good anonymisation approaches to remove the risk of disclosure, however some risk will always remain. Accessing these databases can also cost money.
-    <br />
-  For these reasons, and more, scientists working in health-care and biomedical research have sought to overcome some of these privacy concerns by generating synthetic versions of datasets of interest. In theory, the synthetic data should be safer and easier to access, therefore allowing researchers to learn the structure, features and patterns of the real dataset without actually accessing it directly. Easier and earlier access should facilitate promotion of these datasets, training of people and  acceleration/refinement of research workflows. If synthetic data is easier to share, it could also increase transparency of scientific reporting when shared along other research objects like code. In the context of AI, high fidelity synthetic data can be used to train and validate machine learning models; synthetic datasets can be created to be different to the real data in specific ways to address a certain bias in the real data, for example under-sampling of sub-groups within a population. 
+  <br />
+
+  > Health databases can contain information about a large group of people, making the hosting and sharing of these databases challenging. It can be hard to share real data when it contains sensitive personal information about individuals - we do have some good anonymisation approaches to remove the risk of disclosure, however some risk will always remain. Accessing these databases can also cost money.
+  
+  > For these reasons, and more, scientists working in health-care and biomedical research have sought to overcome some of these privacy concerns by generating synthetic versions of datasets of interest. In theory, the synthetic data should be safer and easier to access, therefore allowing researchers to learn the structure, features and patterns of the real dataset without actually accessing it directly. Easier and earlier access should facilitate promotion of these datasets, training of people and acceleration/refinement of research workflows. In the context of AI, high fidelity synthetic data can be used to train and validate machine learning models; synthetic datasets can be created to be different to the real data in specific ways to address a certain bias in the real data, for example under-sampling of sub-groups within a population. 
 
  </details>
  
