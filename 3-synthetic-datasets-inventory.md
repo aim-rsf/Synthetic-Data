@@ -8,7 +8,7 @@
 |CPRD cardiovascular disease synthetic dataset [^1] | CPRD Aurum database[^2] |  |    |   |                       |   | | |
 |CPRD COVID-19 symptoms and risk factors synthetic dataset[^1] | CPRD Aurum database[^2] |             |    |   |                       |   | | |
 |CPRD[^1]  Aurum sample dataset | CPRD Aurum database[^2] |             |    |   |                       |   | | |
-|UK Biobank Synthetic Dataset[^3] | UK Biobank[^4] |             |[Tofu](https://github.com/spiros/tofu) Python library  |   |                       |   | ||
+|UK Biobank Synthetic Dataset[^3] | UK Biobank[^4] |             |  |   |                       |   | ||
 |_Coming soon_| SAIL Databank[^5]   |             |    |   |                       |   | | |
 
 [^1]: https://cprd.com/synthetic-data
