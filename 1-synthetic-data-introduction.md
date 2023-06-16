@@ -7,8 +7,6 @@ Synthetic Data: Applications in health-care and biomedical research
 
 There are lots of different ways of defining synthetic data, depending on the context.
 
-What about dummy, test, or toy data? See the [understanding terminology](1a-understanding-terminology.md) file for more reflections.
-
 <details>
   <summary>Click for more definitions of synthetic data</summary>  
   <br />
@@ -50,7 +48,9 @@ Within a research context, it can be confusing if data that is perceived as 'fak
 - **Utility**: How useful the synthetic dataset is for a specific task or tasks, which will be application-dependent. 
 - **Fidelity**: The degree to which the synthetic dataset matches the statistical properties of the real data (often used interchangeably with utility). 
 - **Privacy**: The amount of information the dataset contains about real data. Synthetic data can be created to mitigate disclosure risk (disclosure of confidential data about an individual).
-- In general, utility and fidelity change together, and disclosure risk increases with higher fidelity. However, not always! This is because disclosure risk is dependent on the approach/methodology used to generate the synthetic data. 
+- In general, utility and fidelity change together, and disclosure risk increases with higher fidelity. However, not always! This is because disclosure risk is dependent on the approach/methodology used to generate the synthetic data.
+
+What about dummy, test, or toy data? See the [understanding terminology](1a-understanding-terminology.md) file for more reflections.
 
 ## Trade-offs and challenges
 - The quality of the real data can determine the quality of the synthetic data, retaining biases and errors.
