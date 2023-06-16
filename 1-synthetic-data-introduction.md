@@ -7,8 +7,10 @@ Synthetic Data: Applications in health-care and biomedical research
 
 There are lots of different ways of defining synthetic data, depending on the context.
 
+What about dummy, test, or toy data? See the [understanding terminology](1a-understanding-terminology.md) file for more reflections.
+
 <details>
-  <summary>Click for more definitions</summary>  
+  <summary>Click for more definitions of synthetic data</summary>  
   <br />
   
   > "Synthetic data is data that has been generated using a purpose-built mathematical model or algorithm, with the aim of solving a (set of) data science task(s)."[^1] 
