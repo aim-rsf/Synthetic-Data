@@ -3,7 +3,7 @@ Synthetic Data: Applications in health-care and biomedical research
 
 ## What is synthetic data?
 
-*Synthetic data are artificially generated data which replicate original features and patterns of real-world data.*
+Synthetic data are artificially generated data which replicate original features and patterns of real-world data.
 
 There are lots of different ways of defining synthetic data, depending on the context.
 
