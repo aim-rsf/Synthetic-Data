@@ -25,13 +25,10 @@ Using computer-generated data to solve tasks is not a new idea; simulation and m
 
 ## When can't we use the real data?
 
-<img align="left" width="50%" height="50%" src="illustrations/sensitive-data.jpg" alt=Data Are People>
+<img align="left" width="30%" height="40%" src="illustrations/DataArePeople.jpg" alt=Data Are People>
 
 Within a research context, it can be confusing if data that is perceived as 'fake' or 'made up' is used instead of real data. We always would like to use the real data, and the real data is what we should use to make final conclusions and decisions. However, there are points along the research process where it is challenging to use the real data (for example, privacy concerns) and a synthetic version (that matches the real data in some way but is *not* the real data) may help researchers and other users of this data. 
 
-<img align="right" width="30%" height="40%" src="illustrations/DataArePeople.jpg" alt=Data Are People>
-
----
 <details>
   <summary> Click for more information on applications of synthetic data, in the context of health datasets</summary>
   <br />
@@ -41,8 +38,7 @@ Within a research context, it can be confusing if data that is perceived as 'fak
   > For these reasons, and more, scientists working in health-care and biomedical research have sought to overcome some of these privacy concerns by generating synthetic versions of datasets of interest. In theory, the synthetic data should be safer and easier to access, therefore allowing researchers to learn the structure, features and patterns of the real dataset without actually accessing it directly. Easier and earlier access should facilitate promotion of these datasets, training of people and acceleration/refinement of research workflows. In the context of AI, high fidelity synthetic data can be used to train and validate machine learning models; synthetic datasets can be created to be different to the real data in specific ways to address a certain bias in the real data, for example under-sampling of sub-groups within a population. 
 
  </details>
- 
----
+<br />
 
 ## Common terms and concepts
 - **Utility**: How useful the synthetic dataset is for a specific task or tasks, which will be application-dependent. 
