@@ -26,7 +26,7 @@ This repository is about synthetic data and its applications in healthcare and b
   - There are many existing tools, methodologies and resources that allow you to generate your own synthetic datasets. 
 
 - **Access [existing synthetic datasets](3-synthetic-datasets-inventory.md)**
-  - A table summary existing synthetic datasets (particularly relevant to the AIM research programme).
+  - A list of existing synthetic datasets (particularly relevant to the AIM research programme).
 
 ### Resources 
 
