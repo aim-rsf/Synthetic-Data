@@ -12,14 +12,22 @@ Data providers are creating synthetic versions of their datasets, for various di
   - *CPRD Aurum sample dataset* based on CPRD Aurum database (medium fidelity)
   - *CPRD GOLD sample dataset* based on CPRD GOLD database (medium fidelity)
 
-**UK Biobank Synthetic Dataset[^3]**
-**UK Biobank[^4]**
+**UK Biobank**
+- UK Biobank[^4] offer one low fidelity dataset[^3], at similar size and structure to the real dataset, with values generated at random.
+- There appears to be no cost for this dataset, and it can be downloaded from the website directly. 
+<!--/ https://biobank.ndph.ox.ac.uk/~bbdatan/UKB_Synthetic_Dataset_Methods_Summary.pdf -->
 
-**ONS**
+**NHS**
+- The NHSE Data Science Case Studies[^5] offer code & methods to generate synthetic data.
+- NHS Digital ran an Artificial data pilot[^6], creating three synthetic datasets based on Hospital Episode Statistics (from NHS Hospitals across England).
+- NHS England share a synthetic version of A&E data[^7]
+- There appears to be no cost for these datasets, and they can be downloaded from the websites directly. 
 
 [^1]: https://cprd.com/synthetic-data
 [^2]: https://cprd.com/primary-care-data-public-health-research
 [^3]: https://biobank.ndph.ox.ac.uk/ukb/exinfo.cgi?src=UKB_Synthetic_Dataset.html 
 [^4]: https://www.ukbiobank.ac.uk
+[^5]: https://nhsengland.github.io/DataScience-CaseStudies
+[^6]: https://digital.nhs.uk/services/artificial-data
+[^7]: https://data.england.nhs.uk/dataset/a-e-synthetic-data
 
-<!--/ https://biobank.ndph.ox.ac.uk/~bbdatan/UKB_Synthetic_Dataset_Methods_Summary.pdf -->
