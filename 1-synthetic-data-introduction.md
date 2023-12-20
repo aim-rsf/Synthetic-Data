@@ -39,9 +39,10 @@ Within a research context, it can be confusing if data that is perceived as 'fak
 <br />
 
 ## Common terms and concepts
-- **Utility**: How useful the synthetic dataset is for a specific task or tasks, which will be application-dependent. 
-- **Fidelity**: The degree to which the synthetic dataset matches the statistical properties of the real data (often used interchangeably with utility). 
-- **Privacy**: The amount of information the dataset contains about real data. Synthetic data can be created to mitigate disclosure risk (disclosure of confidential data about an individual).
+- **Partially synthetic** data (sometimes referred to as **augmented data**) incorporate real-world data, whereas **fully synthetic** data is created based on patterns learnt from real-world data, but does not use the real-world data directly.
+- **Utility** is how useful the synthetic dataset is for a specific task or tasks, which will be application-dependent. 
+- **Fidelity** is the degree to which the synthetic dataset matches the statistical properties of the real data (often used interchangeably with utility). 
+- **Privacy** is the amount of information the dataset contains about real data. Synthetic data can be created to mitigate disclosure risk (disclosure of confidential data about an individual).
 - In general, utility and fidelity change together, and disclosure risk increases with higher fidelity. However, not always! This is because disclosure risk is dependent on the approach/methodology used to generate the synthetic data.
 
 What about dummy, test, or toy data? See the [understanding terminology](1a-understanding-terminology.md) file for more reflections.
