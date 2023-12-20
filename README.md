@@ -29,17 +29,14 @@ This repository is about synthetic data and its applications in healthcare and b
   - A list of existing synthetic datasets (particularly relevant to the AIM research programme).
 
 ### Resources 
+> See [2-synthetic-data-generation.md](2-synthetic-data-generation.md) for links to software.
 
-<!--/Change to proper citation formatting?-->
-
-- [James et al., ‘Synthetic Data Use’ (2021)](https://doi.org/10.1007/s44163-021-00016-y)
-- [ONS methodology working paper series number 16 - Synthetic data pilot (2021)](https://www.ons.gov.uk/methodology/methodologicalpublications/generalmethodology/onsworkingpaperseries/onsmethodologyworkingpaperseriesnumber16syntheticdatapilot)
-- [Calcraft et al., ‘Accelerating Public Policy Research with Synthetic Data’ (2021)](https://www.adruk.org/fileadmin/uploads/adruk/Documents/Accelerating_public_policy_research_with_synthetic_data_December_2021.pdf)
-- [Jordon et al., ‘Synthetic Data -- What, Why and How?’ (2022)](https://arxiv.org/pdf/2205.03257.pdf)
-- [‘Synthetic Data: A Guide for SMEs', BREATHE (2022)](https://breathedatahub.com/news-opinion/synthetic-data-guide-smes)
-- [Myles et al., Synthetic data and the innovation, assessment, & regulation of AI medical devices (2022)](https://cprd.com/sites/default/files/2022-12/Myles%20et%20al.%20preprint_2022.pdf)
-
-
+- Bates, A. G., Spakulová, I., Dove, I., & Mealor, A. (2019). [ONS methodology working paper series number 16—Synthetic data pilot](https://www.ons.gov.uk/methodology/methodologicalpublications/generalmethodology/onsworkingpaperseries/onsmethodologyworkingpaperseriesnumber16syntheticdatapilot).
+- Calcraft, P., Thomas, I., Maglicic, M., & Sutherland, A. (2021). [Accelerating public policy research with synthetic data](https://www.adruk.org/fileadmin/uploads/adruk/Documents/Accelerating_public_policy_research_with_synthetic_data_December_2021.pdf).
+- Giuffrè, M., & Shung, D. L. (2023). [Harnessing the power of synthetic data in healthcare: innovation, application, and privacy](https://doi.org/10.1038/s41746-023-00927-3). NPJ Digital Medicine, 6(1), 186. 
+- Gonzales, A., Guruswamy, G., & Smith, S. R. (2023). [Synthetic data in health care: a narrative review](https://doi.org/10.1371/journal.pdig.0000082). PLOS Digit Health 2(1): e0000082.
+- Jordon, J., Szpruch, L., Houssiau, F., Bottarelli, M., Cherubin, G., Maple, C., ... & Weller, A. (2022). [Synthetic Data--what, why and how?](https://arxiv.org/pdf/2205.03257.pdf)
+- Myles, P., Ordish, J., & Branson, R. (2021). [Synthetic data and the innovation, assessment, and regulation of AI medical devices](https://cprd.com/sites/default/files/2022-12/Myles%20et%20al.%20preprint_2022.pdf).
 
 ## 🤝 Contributors 
 
