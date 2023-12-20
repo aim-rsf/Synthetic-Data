@@ -39,22 +39,30 @@ Within a research context, it can be confusing if data that is perceived as 'fak
 <br />
 
 ## Common terms and concepts
-- **Partially synthetic** data (sometimes referred to as **augmented data**) incorporate real-world data, whereas **fully synthetic** data is created based on patterns learnt from real-world data, but does not use the real-world data directly.
+
+- **Partially synthetic** data (sometimes referred to as **augmented data**) incorporate real-world data.
+- **Fully synthetic** data is created based on patterns learnt from real-world data, but does not use the real-world data directly.
 - **Utility** is how useful the synthetic dataset is for a specific task or tasks, which will be application-dependent. 
-- **Fidelity** is the degree to which the synthetic dataset matches the statistical properties of the real data (often used interchangeably with utility). 
+- **Fidelity** is the degree to which the synthetic dataset matches the statistical properties of the real data. Synthetic data is often categorised by the level of fidelity (low to high).
 - **Privacy** is the amount of information the dataset contains about real data. Synthetic data can be created to mitigate disclosure risk (disclosure of confidential data about an individual).
-- In general, utility and fidelity change together, and disclosure risk increases with higher fidelity. However, not always! This is because disclosure risk is dependent on the approach/methodology used to generate the synthetic data.
 
 What about dummy, test, or toy data? See the [understanding terminology](1a-understanding-terminology.md) file for more reflections.
 
-## Trade-offs and challenges
+## Trade-offs 
+
+<img width="50%" height="100%" src="illustrations/synthetic_data_dials.png">  
+
+There are many dials/levers that a researcher can change when generating a synthetic dataset. Some of these are **utility**, **fidelity** and **privacy risk**, defined previously. When you change one dial, often another one changes. For instance, in general **utility** and **fidelity** change together and **privacy risk** increases with higher **fidelity**. However, not always! This is because **privacy** is dependent on the approach/methodology used to generate the synthetic data. Other important dials are the level of **resources** you have to generate the synthetic data, and how **transparent** the methodology of generation is (particularly relevant if AI is used).  
+
+## Challenges  
+
 - The quality of the real data can determine the quality of the synthetic data, retaining biases and errors.
-- There is a trade-off between utility, privacy, and how difficult the synthetic data is to generate.
-- Synthetic data is categorised in different ways. This can be in terms of how closely it resembles the real data, but also by which methods were used to generate it.
+- Though synthetic data is used to address bias and privacy risk it can also *introduce* these, if not created and used appropriately. 
 - We need to appropriately communicate what synthetic data is and isn't to different audiences, so that it is a trusted resource.
-- We need to use consistent terminology and methodologies, where possible.
-- We need to appropriately adapt data governance: it is not a replacement for real data, and should be easier to get access to and work with. 
+- We need to appropriately adapt data governance: it is not a replacement for real data, and should be easier to access and work with. 
 - Synthetic data has great potential in the context of the use of sensitive personal data in research, however synthetic data is not automatically private. For example, outliers remain hard to represent in a synthetic dataset in a private way, and evaluating the privacy of a model/dataset can be challenging. Privacy is a big topic - see reference [^1].
+
+---  
 
 <img align="left" width="50%" height="50%" src="illustrations/utility-vs-privacy.jpg">
 
