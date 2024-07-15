@@ -2,12 +2,12 @@
 
 These images were created by Scriberia for The Turing Way community and are used under a CC-BY license:
 - DataArePeople.jpg
-- utility-vs-privacy.jpg
 
 These images were created by Scriberia for AI for multiple long-term conditions: Research Support Facility and are used under a CC-BY license:
 - Using-Artificial-Intelligence-for-MLTC.jpg
 
-These images were created by the contributors of this repo, using [Flaticon](https://www.flaticon.com) free images in google slides. They have the same license terms as the whole repository:
+These images were created by the contributors of this repo, some using [Flaticon](https://www.flaticon.com) free images in google slides. They have the same license terms as the whole repository:
+- terminology.png
 - synthetic_data_dials.png
 
 ## References
