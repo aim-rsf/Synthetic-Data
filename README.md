@@ -27,11 +27,11 @@ This page aims to demystify the terminology used in this area and provide an int
 
   > There are various definitions of synthetic data. Here are 3 examples:
   > 
-  > "Synthetic data is data that has been generated using a purpose-built mathematical model or algorithm, with the aim of solving a (set of) data science task(s)."([Reference 5](/Users/rstickland/Documents/GitHub/Synthetic-Data/references-and-resources.md)) 
+  > "Synthetic data is data that has been generated using a purpose-built mathematical model or algorithm, with the aim of solving a (set of) data science task(s)."([Reference 5](references-and-resources.md)) 
   > 
-  > "Conceptually, synthetic data are artificial data that mimics the properties of and relationships in real data. The quality of synthetic data depends on the approach taken to synthetic data generation."([Reference 6](/Users/rstickland/Documents/GitHub/Synthetic-Data/references-and-resources.md)) 
+  > "Conceptually, synthetic data are artificial data that mimics the properties of and relationships in real data. The quality of synthetic data depends on the approach taken to synthetic data generation."([Reference 6](references-and-resources.md)) 
   >
-  > "Synthetic data are microdata records created to improve data utility while preventing disclosure of confidential respondent information. Synthetic data is created by statistically modelling original data and then using those models to generate new data values that reproduce the original data’s statistical properties …" Source: US Census Bureau, ([Reference 1](/Users/rstickland/Documents/GitHub/Synthetic-Data/references-and-resources.md)) 
+  > "Synthetic data are microdata records created to improve data utility while preventing disclosure of confidential respondent information. Synthetic data is created by statistically modelling original data and then using those models to generate new data values that reproduce the original data’s statistical properties …" Source: US Census Bureau, ([Reference 1](references-and-resources.md)) 
 
   </details>
 
@@ -107,12 +107,13 @@ This page aims to demystify the terminology used in this area and provide an int
 <details>
   <summary>Is it always worth it to create synthetic data? What are they key challenges? </summary>  
   <br />
-  
+
+  > - If the effort taken to make a good enough quality synthetic dataset is more than the effort to access anonymised real data, then it is often not worth it. 
   > - The quality of the real data can determine the quality of the synthetic data, retaining biases and errors.
   > - Though synthetic data is used to address bias and privacy risk it can also introduce these, if not created and used appropriately.
   > - We need to appropriately communicate what synthetic data is and isn't to different audiences, so that it is a trusted resource.
   > - We need to appropriately adapt data governance: it is not a replacement for real data, and should be easier to access and work with.
-  > - Synthetic data has great potential in the context of the use of sensitive personal data in research, however synthetic data is not automatically private. For example, outliers remain hard to represent in a synthetic dataset in a private way, and evaluating the privacy of a model/dataset can be challenging. Privacy is a big topic - see reference 1.
+  > - Synthetic data has great potential in the context of the use of sensitive personal data in research, however synthetic data is not automatically private. For example, outliers remain hard to represent in a synthetic dataset in a private way, and evaluating the privacy of a model/dataset can be challenging. Privacy is a big topic - see [Reference 5](references-and-resources.md).
 
   </details>
 
