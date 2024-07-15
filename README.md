@@ -89,14 +89,14 @@ This page aims to demystify the terminology used in this area and provide an int
 
 
 <details>
-  <summary>What is the 'fidelity', 'utility' and 'privacy' of a synthetic dataset? How are they related? 🎨 </summary>  
+  <summary>What is the fidelity, utility and privacy of a synthetic dataset? How are they related? 🎨 </summary>  
   <br />
   
   > - Utility is how useful the synthetic dataset is for a specific task or tasks, which will be application-dependent
   > - Fidelity is the degree to which the synthetic dataset matches the statistical properties of the real data Synthetic data is often categorised by the level of fidelity (low to high).
   > - Privacy is the amount of information the dataset contains about real data. Synthetic data can be created to mitigate disclosure risk (disclosure of confidential data about an individual).
-  
-  <img align="center" width="30%" height="40%" src="illustrations/synthetic_data_dials.png" alt=synthetic_data_dials>
+
+<img align="center" width="50%" height="50%" src="illustrations/synthetic_data_dials.png" alt=synthetic_data_dials>
 
   > There are many dials/levers that a researcher can change when generating a synthetic dataset. Some of these are utility, fidelity and privacy risk, defined previously. When you change one dial, often another one changes. For instance, in general utility and fidelity change together and privacy risk increases with higher fidelity. However, not always! This is because privacy is dependent on the approach/methodology used to generate the synthetic data. Other important dials are the level of resources you have to generate the synthetic data, and how transparent the methodology of generation is (particularly relevant if AI is used).
 
