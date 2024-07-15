@@ -1,6 +1,6 @@
 # References and Resources 
 
-> See [synthetic-data-generation.md](2-synthetic-data-generation.md) for links to software.
+> See [synthetic-data-generation.md](synthetic-data-generation.md) for links to software.
 
 1. Bates, A. G., Spakulová, I., Dove, I., & Mealor, A. (2019). [ONS methodology working paper series number 16—Synthetic data pilot](https://www.ons.gov.uk/methodology/methodologicalpublications/generalmethodology/onsworkingpaperseries/onsmethodologyworkingpaperseriesnumber16syntheticdatapilot).
 2. Calcraft, P., Thomas, I., Maglicic, M., & Sutherland, A. (2021). [Accelerating public policy research with synthetic data](https://www.adruk.org/fileadmin/uploads/adruk/Documents/Accelerating_public_policy_research_with_synthetic_data_December_2021.pdf).
