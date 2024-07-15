@@ -93,7 +93,7 @@ This page aims to demystify the terminology used in this area and provide an int
   <br />
   
   > - Utility is how useful the synthetic dataset is for a specific task or tasks, which will be application-dependent
-  > - Fidelity is the degree to which the synthetic dataset matches the statistical properties of the real data Synthetic data is often categorised by the level of fidelity (low to high).
+  > - Fidelity is the degree to which the synthetic dataset matches the statistical properties of the real data. Synthetic data is often categorised by the level of fidelity (low to high).
   > - Privacy is the amount of information the dataset contains about real data. Synthetic data can be created to mitigate disclosure risk (disclosure of confidential data about an individual).
 
 <img align="center" width="50%" height="50%" src="illustrations/synthetic_data_dials.png" alt=synthetic_data_dials>
