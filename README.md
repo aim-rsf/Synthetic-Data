@@ -50,15 +50,15 @@ This page aims to demystify the terminology used in this area and provide an int
   <summary>Why can't we use just use the real data? 🎨 </summary>  
   <br />
   
-  > Within a research context, it can be confusing if 'made up' data is used instead of real data. In nearly all situations, the real data is what we should use to make final conclusions and decisions. However, there are points along the research process where it is challenging to use the real data (for example, privacy concerns) and a synthetic version (that matches the real data in some way but is \textit{not} the real data) may help researchers and other users of this data.
+  > It can be confusing if 'made up' data is used instead of real data. In nearly all situations, the real data is what we should use to make final conclusions and decisions. However, there are points along the research process where it is challenging to use the real data (for example, privacy concerns) and a synthetic version (that matches the real data in some way but is mot the real data) may help researchers and other users of this data.
   >
-  > Health databases can contain information about a large group of people, making the hosting and sharing of these databases challenging. It can be hard to share real data when it contains sensitive personal information about individuals - we do have some good anonymisation approaches to remove the risk of disclosure, however some risk will always remain. Accessing these databases can also cost money.
+  > Health databases can contain sensitive personal information about a large group of people, making the hosting and sharing of these databases challenging. We do have some good anonymisation approaches to remove the risk of disclosure, however some risk will always remain. Accessing these databases can also cost money.
   > 
-  > For these reasons, and more, scientists working in health-care and biomedical research have sought to overcome some of these privacy concerns by generating synthetic versions of datasets of interest. In theory, the synthetic data should be safer and easier to access, therefore allowing researchers to learn the structure, features and patterns of the real dataset without actually accessing it directly. Easier and earlier access should facilitate promotion of these datasets, training of people and acceleration/refinement of research workflows. 
+  > For these reasons above, and more, scientists working in health-care and biomedical research have sought to overcome some of these privacy concerns by generating synthetic versions of datasets of interest. In theory, the synthetic data should be safer and easier to access, therefore allowing researchers to learn the structure, features and patterns of the real dataset without actually accessing it directly. Easier and earlier access should facilitate promotion of these datasets, training of people and acceleration/refinement of research workflows. 
   > 
   > In the context of AI,  synthetic data that closely match the statistical properties of the real data can be used to train and validate machine learning models; synthetic datasets can be created to be different to the real data in specific ways to address a certain bias in the real data, for example under-sampling of sub-groups within a population.
 
-  <img align="center" width="30%" height="40%" src="illustrations/DataArePeople.jpg" alt=Data Are People>
+  <img align="center" width="50%" height="50%" src="illustrations/DataArePeople.jpg" alt=Data Are People>
 
 </details>
 
