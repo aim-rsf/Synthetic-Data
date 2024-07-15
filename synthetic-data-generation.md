@@ -12,7 +12,7 @@ Different methods will achieve different levels of fidelity and privacy.
 
 ## Before generating synthetic data 
 
-Before generating a synthetic dataset is is important to consider whether there are **existing synthetic datasets** that meet your fidelity/quality/privacy requirements. See [3-synthetic-datasets-inventory.md](3-synthetic-datasets-inventory.md) for some existing synthetic datasets. If a dataset does not exist already, it is important to consider what **generation methodology** is important for your use-case, and re-use existing methods that have been created by others. There are **existing software and tools** that can help automate the generation of your synthetic datasets; some are listed below. 
+Before generating a synthetic dataset is is important to consider whether there are **existing synthetic datasets** that meet your fidelity/quality/privacy requirements. See [synthetic-datasets-inventory.md](synthetic-datasets-inventory.md) for some existing synthetic datasets. If a dataset does not exist already, it is important to consider what **generation methodology** is important for your use-case, and re-use existing methods that have been created by others. There are **existing software and tools** that can help automate the generation of your synthetic datasets; some are listed below. 
 
 ##  Software 
 
