@@ -70,7 +70,7 @@ This page aims to demystify the terminology used in this area and provide an int
   
   > Many terms are used interchangeably. Synthetic data and Artificial data typically refer to the same concept; often synthetic data is said to be artificially generated. Simulated data or Augmented data are sometimes used in replace of synthetic data, but can be best thought of as methods used to generate the synthetic data i.e. via simulations and mathematical modelling. The low fidelity space can be less well defined and some people refer to this data as Dummy, Test or Toy data. These three are more likely to be randomly generated data, only matching the structure of the dataset and fewer of its statistical properties. More informal terms such as fake or made-up data are sometimes used.
 
-  <img align="center" width="30%" height="40%" src="illustrations/terminology.png" alt=Terminology>
+  <img align="center" width="50%" height="50%" src="illustrations/terminology.png" alt=Terminology>
 
 </details>
 
