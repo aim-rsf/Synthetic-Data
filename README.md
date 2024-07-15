@@ -108,7 +108,7 @@ This page aims to demystify the terminology used in this area and provide an int
   <summary>Is it always worth it to create synthetic data? What are they key challenges? </summary>  
   <br />
 
-  > - If the effort taken to make a good enough quality synthetic dataset is more than the effort to access anonymised real data, then it is often not worth it. 
+  > - If the effort taken to make a good enough quality synthetic dataset is more than the effort to access anonymised real data, then it is often not worth it. It depends what the synthetic data will be used for! 
   > - The quality of the real data can determine the quality of the synthetic data, retaining biases and errors.
   > - Though synthetic data is used to address bias and privacy risk it can also introduce these, if not created and used appropriately.
   > - We need to appropriately communicate what synthetic data is and isn't to different audiences, so that it is a trusted resource.
