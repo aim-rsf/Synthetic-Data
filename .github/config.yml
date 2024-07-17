@@ -1,4 +1,5 @@
 # This file sets up the Configuration for many of the GitHub Actions and Automations used in this repository 
+# Based off the config.yml file used at TTW: https://github.com/the-turing-way/the-turing-way
 
 #################### COMMUNITY BUILDING #####################
 # To welcome new community members and support interactions
