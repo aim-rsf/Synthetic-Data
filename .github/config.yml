@@ -11,18 +11,15 @@
 # Comment to be posted to on first time issues
 newIssueWelcomeComment: >
   :tada: Thanks for opening your first issue in the AIM RSF Synthetic Data repository! :tada:
-  [![Welcome Banner](https://zenodo.org/api/iiif/v2/0c0188d3-d03c-4830-a6e3-00405f5c22fa:8ff47a85-7250-4d86-8e48-2f346b48b2c1:BannerWelcome.jpg/full/750,/0/default.jpg)](https://zenodo.org/record/3695300)
 # Configuration for new-pr-welcome - https://github.com/behaviorbot/new-pr-welcome
 
 # Comment to be posted to on PRs from first time contributors in your repository
 newPRWelcomeComment: >
-  [![Thank You Banner](https://zenodo.org/api/iiif/v2/0c0188d3-d03c-4830-a6e3-00405f5c22fa:7fbd97cf-283b-480c-b8e1-11866e26245c:BannerThanks.jpg/full/750,/0/default.jpg)](https://zenodo.org/record/3695300)
   :sparkling_heart: Thanks for opening this pull request! :sparkling_heart: Make sure you have described what changes you've made and are suggesting, and then request someone to review the PR.    
 # Configuration for first-pr-merge - https://github.com/behaviorbot/first-pr-merge
 
 # Comment to be posted to on pull requests merged by a first time user
 firstPRMergeComment: >
-  [![Congratulations Banner](https://zenodo.org/api/iiif/v2/0c0188d3-d03c-4830-a6e3-00405f5c22fa:32fbdb89-ae1b-434e-830c-88ade86724cc:BannerCongratulations.jpg/full/750,/0/default.jpg)](https://zenodo.org/record/3695300)
   Congrats on merging your first Pull Request! :tada:
   
 # This Welcome is based on The Turing Way and the [behaviourbot's welcome](https://github.com/behaviorbot/welcome?installation_id=26730891&setup_action=install). Material from The Turing Way has been used and adapted under a CC-BY license. Attributions go to [The Turing Way Community. (2021). The Turing Way: A handbook for reproducible, ethical and collaborative research (1.0.1)](https://doi.org/10.5281/zenodo.6533831) Images from the Banners were created by Scriberia for The Turing Way community and are used under a CC-BY licence.
