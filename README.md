@@ -47,7 +47,7 @@ This page aims to demystify the terminology used in this area and provide an int
 <br />
 
 <details>
-  <summary>Why can't we use just use the real data? 🎨 </summary>  
+  <summary>Why can't we just use the real data? 🎨 </summary>  
   <br />
   
   > It can be confusing if 'made up' data is used instead of real data. In nearly all situations, the real data is what we should use to make final conclusions and decisions. However, there are points along the research process where it is challenging to use the real data (for example, privacy concerns) and a synthetic version (that matches the real data in some way but is not the real data) may help researchers and other users of this data.
