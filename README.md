@@ -41,7 +41,7 @@ This page aims to demystify the terminology used in this area and provide an int
   <summary>Is synthetic data a recent development?</summary>  
   <br />
 
-  > No. Using computer-generated data to solve tasks and generate new data is not a new idea; simulation and modelling approaches have been used for decades in science and technology spaces. However, newer developments relate to the application of synthetic data, particularly relating to the growing use case of using it to managing the disclosure risk of sensitive health care data. 
+  > No. Using computer-generated data to solve tasks and generate new data is not a new idea; simulation and modelling approaches have been used for decades in science and technology spaces. However, newer developments relate to the growing application of synthetic data to manage the disclosure risk of sensitive health care data. 
 </details>
 
 <br />
@@ -56,7 +56,7 @@ This page aims to demystify the terminology used in this area and provide an int
   > 
   > For these reasons above, and more, scientists working in health-care and biomedical research have sought to overcome some of these privacy concerns by generating synthetic versions of datasets of interest. In theory, the synthetic data should be safer and easier to access, therefore allowing researchers to learn the structure, features and patterns of the real dataset without actually accessing it directly. Easier and earlier access should facilitate promotion of these datasets, training of people and acceleration/refinement of research workflows. 
   > 
-  > In the context of AI,  synthetic data that closely match the statistical properties of the real data can be used to train and validate machine learning models; synthetic datasets can be created to be different to the real data in specific ways to address a certain bias in the real data, for example under-sampling of sub-groups within a population.
+  > In the context of AI,  synthetic data that closely match the statistical properties of the real data can be used to train and validate machine learning models; synthetic datasets can be created to be different from the real data in specific ways to address a certain bias in the real data, for example under-sampling of sub-groups within a population.
 
   <img align="center" width="50%" height="50%" src="illustrations/DataArePeople.jpg" alt=Data Are People>
 
@@ -68,7 +68,7 @@ This page aims to demystify the terminology used in this area and provide an int
   <summary>Synthetic, Artificial, Dummy, Test, Toy - are these all the same? 🎨 </summary>  
   <br />
   
-  > Many terms are used interchangeably. Synthetic data and Artificial data typically refer to the same concept; often synthetic data is said to be artificially generated. Simulated data or Augmented data are sometimes used in replace of synthetic data, but can be best thought of as methods used to generate the synthetic data i.e. via simulations and mathematical modelling. The low fidelity space can be less well defined and some people refer to this data as Dummy, Test or Toy data. These three are more likely to be randomly generated data, only matching the structure of the dataset and fewer of its statistical properties. More informal terms such as fake or made-up data are sometimes used.
+  > Many terms are used interchangeably. Synthetic data and Artificial data typically refer to the same concept; often synthetic data is said to be artificially generated. Simulated data or Augmented data are sometimes used in replacement of synthetic data, but can be best thought of as methods used to generate the synthetic data i.e. via simulations and mathematical modelling. The low fidelity space can be less well defined and some people refer to this data as Dummy, Test or Toy data. These three are more likely to be randomly generated data, only matching the structure of the dataset and fewer of its statistical properties. More informal terms such as fake or made-up data are sometimes used.
 
   <img align="center" width="50%" height="50%" src="illustrations/terminology.png" alt=Terminology>
 
@@ -98,7 +98,7 @@ This page aims to demystify the terminology used in this area and provide an int
 
 <img align="center" width="50%" height="50%" src="illustrations/synthetic_data_dials.png" alt=synthetic_data_dials>
 
-  > There are many dials/levers that a researcher can change when generating a synthetic dataset. Some of these are utility, fidelity and privacy risk, defined previously. When you change one dial, often another one changes. For instance, in general utility and fidelity change together and privacy risk increases with higher fidelity. However, not always! This is because privacy is dependent on the approach/methodology used to generate the synthetic data. Other important dials are the level of resources you have to generate the synthetic data, and how transparent the methodology of generation is (particularly relevant if AI is used).
+  > There are many dials/levers that a researcher can change when generating a synthetic dataset. Some of these are utility, fidelity and privacy risk, defined previously. When you change one dial, often another one changes. For instance, in general utility and fidelity change together and privacy risk increases with higher fidelity. However, not always! This is because privacy is dependent on the approach/methodology used to generate the synthetic data. Other important dials are the level of resources you have to generate the synthetic data, and how transparent the methodology of generation is (particularly relevant if explainable AI is used).
 
   </details>
 
@@ -108,10 +108,10 @@ This page aims to demystify the terminology used in this area and provide an int
   <summary>Is it always worth it to create synthetic data? What are they key challenges? </summary>  
   <br />
 
-  > - If the effort taken to make a good enough quality synthetic dataset is more than the effort to access anonymised real data, then it is often not worth it. It depends what the synthetic data will be used for! 
+  > - If the effort taken to make a good enough quality synthetic dataset is more than the effort to access anonymised real data, then it is often not worth it. It depends on what the synthetic data will be used for! 
   > - The quality of the real data can determine the quality of the synthetic data, retaining biases and errors.
   > - Though synthetic data is used to address bias and privacy risk it can also introduce these, if not created and used appropriately.
-  > - We need to appropriately communicate what synthetic data is and isn't to different audiences, so that it is a trusted resource.
+  > - We need to appropriately communicate what synthetic data is and isn't to different audiences, so that it is a trusted and accesible resource.
   > - We need to appropriately adapt data governance: it is not a replacement for real data, and should be easier to access and work with.
   > - Synthetic data has great potential in the context of the use of sensitive personal data in research, however synthetic data is not automatically private. For example, outliers remain hard to represent in a synthetic dataset in a private way, and evaluating the privacy of a model/dataset can be challenging. Privacy is a big topic - see [Reference 5](references-and-resources.md).
 
