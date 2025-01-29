@@ -172,7 +172,7 @@ Thanks go to these wonderful people ([emoji key](https://allcontributors.org/doc
 
 ## 🤝 Would you like to contribute? 
 
-We welcome contributions from anyone, however small or large. If you choose to contribute to this synthetic data repository, please do this in line with our [code of conduct](https://github.com/aim-rsf/Getting-Started/blob/main/CODE_OF_CONDUCT.md). If you want to contribute but you're not sure where to start, see our [general guide to contributing](https://github.com/aim-rsf/Getting-Started/blob/main/CONTRIBUTING.md).
+We welcome contributions from anyone, however small or large. Read our [contribution guidelines](CONTRIBUTING.md) for information on how to contribute, and please do so in line with our organisation [code of conduct](https://github.com/aim-rsf/Getting-Started/blob/main/CODE_OF_CONDUCT.md).
 
 ## ♻️ Licenses
 
