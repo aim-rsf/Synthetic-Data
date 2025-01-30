@@ -1,7 +1,8 @@
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
-[![CC BY 4.0][cc-by-shield]][cc-by]
+
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 [![DOI](https://zenodo.org/badge/849944129.svg)](https://zenodo.org/records/14770430)
 
@@ -179,12 +180,9 @@ We welcome contributions from anyone, however small or large. Read our [contribu
 
 ## ♻️ Licenses
 
-The information in this repository is licensed under a [Creative Commons Attribution 4.0 International License][cc-by].
-
-[![CC BY 4.0][cc-by-image]][cc-by]
-
-[cc-by]: http://creativecommons.org/licenses/by/4.0/
-[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
-[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
-
+The information in this repository is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/deed.en).
 For specific information on licenses for illustrations, see [this file](illustrations/README.md).
+
+## Citation
+
+Mohammad, M., Santos, L., Stickland, R., Zormpa, E., & AIM-RSF team. (2025). Demystifying Synthetic Data. Zenodo: https://doi.org/10.5281/zenodo.14770429
