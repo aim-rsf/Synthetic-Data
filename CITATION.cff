@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Stickland"
+  given-names: "Rachael"
+  orcid: "https://orcid.org/0000-0003-3398-4272"
+- family-names: "Mohammad"
+  given-names: "Mahwish"
+  orcid: "https://orcid.org/0009-0004-5295-0726"
+- family-names: "Zormpa"
+  given-names: "Eirini"
+  orcid: "https://orcid.org/0000-0002-6902-7768"
+- family-names: "Santos"
+  given-names: "Luis"
+title: "Demystifying Synthetic Data"
+version: 0.2.1
+doi: 10.5281/zenodo.14770429
+date-released: 2025-01-30
+url: "https://github.com/aim-rsf/Synthetic-Data"
+
+
+
