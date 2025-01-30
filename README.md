@@ -3,7 +3,7 @@
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 [![CC BY 4.0][cc-by-shield]][cc-by]
 
-To cite this work: [![DOI](https://zenodo.org/badge/849944129.svg)](https://zenodo.org/records/14770430)
+[![DOI](https://zenodo.org/badge/849944129.svg)](https://zenodo.org/records/14770430)
 
 # Demystifying Synthetic Data 
 
