@@ -141,9 +141,7 @@ This page aims to demystify the terminology used in this area and provide an int
 
 # Contributors and Acknowledgments
 
-This project is funded by the NIHR Artificial Intelligence for Multiple Long-Term Conditions (AIM) programme (NIHR202647). The views expressed are those of the author(s) and not necessarily those of the NIHR or the Department of Health and Social Care.
-
-This repository is created and maintained by the [AI for Multiple Long Term Conditions Research Support Facility (AIM-RSF)](https://www.turing.ac.uk/research/research-projects/ai-multiple-long-term-conditions-research-support-facility). To find out more about this facility, take a look at the [getting started](https://github.com/aim-rsf/Getting-Started) repository. 
+This repository is created and maintained by the [AI for Multiple Long Term Conditions Research Support Facility (AIM-RSF)](https://www.turing.ac.uk/research/research-projects/ai-multiple-long-term-conditions-research-support-facility) (link to the [same archived website](https://web.archive.org/web/20250212145350/https://www.turing.ac.uk/research/research-projects/ai-for-multiple-long-term-conditions-research-support-facility?__cf_chl_rt_tk=XKaDrLiiU8hmzZk2rKaWDBVpnO8exVqC4EHijqlWTIQ-1739372030-1.0.1.1-hmHFksRkdOQcBH9PsOgRVdNAatQdr3i4hFOqtyPcyZU)). AIM RSF is funded by the NIHR Artificial Intelligence for Multiple Long-Term Conditions (AIM) programme (NIHR202647). The views expressed are those of the author(s) and not necessarily those of the NIHR or the Department of Health and Social Care.
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. 
 Thanks go to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
