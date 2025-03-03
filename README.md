@@ -1,10 +1,7 @@
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
-
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-
 [![DOI](https://zenodo.org/badge/849944129.svg)](https://doi.org/10.5281/zenodo.14770429)
+[![Project Status: Inactive – The project has reached a stable, usable state but is no longer being actively developed; support/maintenance will be provided as time allows.](https://www.repostatus.org/badges/latest/inactive.svg)](https://www.repostatus.org/#inactive)
 
 # Demystifying Synthetic Data 
 
@@ -183,4 +180,4 @@ For specific information on licenses for illustrations, see [this file](illustra
 
 ## Citation
 
-Mohammad, M., Santos, L., Stickland, R., Zormpa, E., & AIM-RSF team. (2025). Demystifying Synthetic Data. Zenodo: https://doi.org/10.5281/zenodo.14770429
+Stickland, R., Mohammad M., Zormpa, E., Santos, L. & AIM-RSF team. (2025). Demystifying Synthetic Data. Zenodo: https://doi.org/10.5281/zenodo.14770429
