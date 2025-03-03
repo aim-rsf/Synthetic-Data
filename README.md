@@ -3,6 +3,8 @@
 [![DOI](https://zenodo.org/badge/849944129.svg)](https://doi.org/10.5281/zenodo.14770429)
 [![Project Status: Inactive – The project has reached a stable, usable state but is no longer being actively developed; support/maintenance will be provided as time allows.](https://www.repostatus.org/badges/latest/inactive.svg)](https://www.repostatus.org/#inactive)
 
+> For a PDF version of this repo, see here: https://github.com/aim-rsf/Synthetic-Data/blob/main/toPDF/v0.2.2.pdf
+ 
 # Demystifying Synthetic Data 
 
 Synthetic data has great potential to speed up biomedical research. There are many detailed resources and references on synthetic data and its use-cases, see [References and Resources](references-and-resources.md) for some places to start. 
