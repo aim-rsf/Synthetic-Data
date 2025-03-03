@@ -1,16 +1,16 @@
  ## Inventory of synthetic datasets
 
-Data providers are creating synthetic versions of their datasets, for various different purposes. Below we list some synthetic datasets realted to health research.
+Data providers are creating synthetic versions of their datasets, for various different purposes. Below we list some synthetic datasets related to health research (not an exhaustive list, just some key examples).
 
 **Clinical Practice Research Datalink (CPRD)**
 
-- CPRD offer 4 synthetic datasets[^1] based on their two seperate primary care databases, Aurum and GOLD[^2].
-- A fee must be paid and a data license agreement completed, in order to access these synthetic datasets. 
+- CPRD offer 4 synthetic datasets[^1] based on their two separate primary care databases, Aurum and GOLD[^2].
+- A data license agreement must be completed, in order to access these synthetic datasets. 
 - The four datasets:
-  - *CPRD cardiovascular disease synthetic dataset* based on CPRD Aurum database (high fidelity)
-  - *CPRD COVID-19 symptoms and risk factors synthetic dataset* based on CPRD Aurum database (high fidelity)
-  - *CPRD Aurum sample dataset* based on CPRD Aurum database (medium fidelity)
-  - *CPRD GOLD sample dataset* based on CPRD GOLD database (medium fidelity)
+  - *CPRD cardiovascular disease synthetic dataset* based on CPRD Aurum database (high fidelity) - a small cost
+  - *CPRD COVID-19 symptoms and risk factors synthetic dataset* based on CPRD Aurum database (high fidelity) - a small cost
+  - *CPRD Aurum sample dataset* based on CPRD Aurum database (medium fidelity) - free!
+  - *CPRD GOLD sample dataset* based on CPRD GOLD database (medium fidelity) - free!
 
 **UK Biobank**
 - UK Biobank[^4] offer one low fidelity dataset[^3], at similar size and structure to the real dataset, with values generated at random.
