@@ -21,7 +21,13 @@ Data providers are creating synthetic versions of their datasets, for various di
 - The NHSE Data Science Case Studies[^5] offer code & methods to generate synthetic data.
 - NHS Digital ran an Artificial data pilot[^6], creating three synthetic datasets based on Hospital Episode Statistics (from NHS Hospitals across England).
 - NHS England share a synthetic version of A&E data[^7]
-- There appears to be no cost for these datasets, and they can be downloaded from the websites directly. 
+- There appears to be no cost for these datasets, and they can be downloaded from the websites directly.
+
+**ONS**
+> This sections needs expanding/updating
+
+The ONS seem to be working on synthetic datasets: they have synthetic data methods papers[^8] where they talk about a synthetic version of the Labour Force Survey and a blog post detailing
+their collaboration with Data Science Campus[^9].
 
 [^1]: https://cprd.com/synthetic-data
 [^2]: https://cprd.com/primary-care-data-public-health-research
@@ -30,4 +36,5 @@ Data providers are creating synthetic versions of their datasets, for various di
 [^5]: https://nhsengland.github.io/DataScience-CaseStudies
 [^6]: https://digital.nhs.uk/services/artificial-data
 [^7]: https://data.england.nhs.uk/dataset/a-e-synthetic-data
-
+[^8]: https://www.ons.gov.uk/methodology/methodologicalpublications/generalmethodology/onsworkingpaperseries/onsmethodologyworkingpaperseriesnumber16syntheticdatapilot
+[^9]: https://datasciencecampus.ons.gov.uk/enabling-data-access-through-privacy-preserving-synthetic-data/
