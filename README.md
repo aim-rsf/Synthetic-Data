@@ -7,9 +7,7 @@
  
 # Demystifying Synthetic Data 
 
-Synthetic data has great potential to speed up biomedical research. There are many detailed resources and references on synthetic data and its use-cases, see [References and Resources](references-and-resources.md) for some places to start. 
-
-Synthetic data has great potential to speed up biomedical research. There are many detailed resources and references on synthetic data and its use-cases. This page aims to demystify the terminology used in this area and provide an introduction to key use-cases and challenges of synthetic data in health and biomedical research, with links to many examples and resources throughout. This is done in the form of a question and answer structure - **click on each question below to see the answer.** The 🎨 symbol indicates there is a diagram or illustration in this answer. 
+Synthetic data has great potential to speed up biomedical research. There are many detailed resources and references on synthetic data and its use-cases, see [References and Resources](references-and-resources.md) for some places to start. This page aims to demystify the terminology used in this area and provide an introduction to key use-cases and challenges of synthetic data in health and biomedical research, with links to many examples and resources throughout. This is done in the form of a question and answer structure - **click on each question below to see the answer.** The 🎨 symbol indicates there is a diagram or illustration in this answer. 
 
 ---
 
